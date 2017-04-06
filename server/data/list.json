@@ -1,0 +1,27 @@
+{
+    "data": {
+        "pcLiveStatusList": [{
+            "songName": "李玉刚-刚好遇见你",
+            "viewerNum": 30718,
+            "nickName": "MM米米娇",
+            "imgPath": "http://p3.fx.kgimg.com/v2/fxroomcover/T1U6YABjZT1RCvBVdK.jpg",
+            "userLogo": "http://p3.fx.kgimg.com/v2/fxuserlogo/T16_DcBgbv1RCvBVdK.jpg_45x45.jpg",
+            "userId": 21652997,
+            "roomId": 1017590,
+            "kugouId": 365342962
+        }, {
+            "songName": "逃跑计划-结婚",
+            "viewerNum": 14375,
+            "nickName": "姐是美荷",
+            "imgPath": "http://p3.fx.kgimg.com/v2/fxroomcover/T1.OZABgKT1RCvBVdK.jpg",
+            "userLogo": "http://p3.fx.kgimg.com/v2/fxuserlogo/T1MoYABgZT1RCvBVdK.jpg_45x45.jpg",
+            "userId": 24191007,
+            "roomId": 1018756,
+            "kugouId": 376709584
+        }],
+        "pcLiveStatusListSize": 20
+    },
+    "servertime": 1491471873,
+    "errorcode": "",
+    "status": 1
+}
